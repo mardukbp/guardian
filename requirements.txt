@@ -1,2 +1,7 @@
+prompt_toolkit==3.0.53
+Pygments==2.21.0
+pyperclip==1.11.0
 robotframework==7.5.1
+robotframework-debug==4.6.1
 robotframework-robosapiens==2.36.2
+wcwidth==0.9.4
