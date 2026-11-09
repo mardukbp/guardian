@@ -33,6 +33,7 @@ robotframework-browser==21.0.0
 robotframework-browser-batteries==21.0.0
 robotframework-keyta==2.4.2
 robotframework-pythonlibcore==4.6.0
+robotframework-robosapiens==2.36.2
 seedir==0.5.1
 setuptools==84.2.1
 six==1.17.0
