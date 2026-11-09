@@ -19,9 +19,13 @@ Markdown==3.10.3
 MarkupSafe==3.0.4
 natsort==8.4.0
 overrides==7.7.0
+<<<<<<< HEAD
 packaging==26.3
 pillow==12.3.0
 pip-tools==7.6.2
+=======
+pillow==13.0.0
+>>>>>>> 32b33c1847bcbed5289f0fe30957cd11937512c3
 prompt_toolkit==3.0.53
 protobuf==7.35.1
 psutil==7.2.2
