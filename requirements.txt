@@ -1,6 +1,7 @@
 asgiref==3.13.0
 click==8.5.0
 conditional==2.2
+cowsay==6.1
 Django==5.2.19
 django-admin-sortable2==2.2.3
 django-appconf==1.2.0
