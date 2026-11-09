@@ -48,7 +48,7 @@ robotframework-browser==21.0.0
 robotframework-browser-batteries==21.0.0
 robotframework-keyta==2.4.2
 robotframework-pythonlibcore==4.6.0
-robotframework-robosapiens==2.36.2
+robotframework-robosapiens @ file:///E:/Desktop/robotframework-robosapiens/python/dist/robotframework_robosapiens-2.36.3-py3-none-any.whl#sha256=2bc5df8b6aa8381e90ade4d234aab1fefe4308f393f7621f5b69ab89e2e0f49c
 seedir==0.5.1
 setuptools==84.2.1
 six==1.17.0
