@@ -39,6 +39,7 @@ protobuf==7.35.1
 psutil==7.2.2
 pure_eval==0.2.4
 Pygments==2.21.0
+pyperclip==1.11.0
 pyproject_hooks==1.3.3
 pystray==0.19.5
 PyYAML==6.0.3
@@ -46,6 +47,7 @@ robotframework==7.5.1
 robotframework-assertion-engine==5.0.1
 robotframework-browser==21.0.0
 robotframework-browser-batteries==21.0.0
+robotframework-debug==4.6.1
 robotframework-keyta==2.4.2
 robotframework-pythonlibcore==4.6.0
 robotframework-robosapiens @ file:///E:/Desktop/robotframework-robosapiens/python/dist/robotframework_robosapiens-2.36.3-py3-none-any.whl#sha256=2bc5df8b6aa8381e90ade4d234aab1fefe4308f393f7621f5b69ab89e2e0f49c
