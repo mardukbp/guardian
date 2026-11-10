@@ -82,7 +82,7 @@ robotframework==7.5.1
 robotframework-assertion-engine==5.0.1
 robotframework-browser==21.0.0
 robotframework-browser-batteries==21.0.0
-robotframework-browser-tray==1.8.6
+robotframework-browser-tray==1.9.0
 robotframework-debug==4.7.0
 robotframework-keyta==2.4.3
 robotframework-pythonlibcore==4.6.0
