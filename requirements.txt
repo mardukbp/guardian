@@ -66,8 +66,8 @@ robotframework==7.5.1
 robotframework-assertion-engine==5.0.1
 robotframework-browser==21.0.0
 robotframework-browser-batteries==21.0.0
-robotframework-browser-tray==1.8.5
-robotframework-debug @ file:///E:/Desktop/robotframework-robosapiens/robotframework_debug-4.6.2-py3-none-any.whl#sha256=77e37faa63d6de644a8a6c87dae668e0b0d5b203ebe730cd309c58bfdbf42bff
+robotframework-browser-tray==1.8.6
+robotframework-debug==4.7.0
 robotframework-keyta==2.4.2
 robotframework-pythonlibcore==4.6.0
 robotframework-robosapiens @ file:///E:/Desktop/robotframework-robosapiens/python/dist/robotframework_robosapiens-2.36.3-py3-none-any.whl#sha256=2bc5df8b6aa8381e90ade4d234aab1fefe4308f393f7621f5b69ab89e2e0f49c
